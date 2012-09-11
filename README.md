@@ -8,4 +8,4 @@ My name is Dipti Sonawane. I'm doing my **Masters in New Media studies from Aalt
     
 [Portfolio](http://dipti.ragadesign.in/)
 
-![My Picture](dipti.jpg)
+<img src="https://raw.github.com/dipti-sonawane/testgithub/branchbio/dipti.jpg">
